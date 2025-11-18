@@ -33,20 +33,19 @@ The goal is to equip senior leaders with **clear, actionable insights** to:
 
 **👤 Who is this project for?**
 
-✔️ **Senior executives** seeking a unified view of global business performance  
-✔️ **Business unit heads & sales managers** responsible for market and product decisions  
-✔️ **Data analysts** who need standardized dashboards to reduce manual reporting  
-✔️ **Strategy teams** planning expansion, pricing, or product investments  
+- **Senior executives** seeking a unified view of global business performance  
+- **Business unit heads & sales managers** responsible for market and product decisions  
+- **Data analysts** who need standardized dashboards to reduce manual reporting  
+- **Strategy teams** planning expansion, pricing, or product investments  
 
 
 **❓Business Questions:**
 
-✔️ How is the business performing across regions, categories, and time?  
-✔️ Which markets offer the highest growth potential and profitability?  
-✔️ Which product categories and sub-categories should be prioritized for investment? 
-✔️ Where do return rates or declining margins indicate operational risks?  
-✔️ Which sales representatives or regions outperform the rest—and why? 
-
+- How is the business performing across regions, categories, and time?  
+- Which markets offer the highest growth potential and profitability?  
+- Which sales representatives or regions outperform the rest—and why?  
+- Which product categories and sub-categories should be prioritized for investment? 
+- Where do return rates or declining margins indicate operational risks? 
 
 **🎯Project Outcome:**
 

@@ -129,8 +129,7 @@ The dataset consists of **three tables**:
 </details>
 
 #### 2️⃣ Data Relationships:
-
-![Image](https://github.com/user-attachments/assets/ea814a90-0f20-4b7d-9cb1-929e79163978)
+<img width="1798" height="1062" alt="image" src="https://github.com/user-attachments/assets/3643485d-d1fa-4922-9d20-df17570e771a" />
 
 | **From Table** | **To Table** | **Join Key**   | **Relationship Type**                                  |
 |------------|----------|------------|----------------------------------------------------|
@@ -140,22 +139,17 @@ The dataset consists of **three tables**:
 ## 🧠 Design Thinking Process
 
 ### 1️⃣ Empathize
-
-![Image](https://github.com/user-attachments/assets/502440cd-3907-4b82-87d3-4951657fdf50)
-
-![Image](https://github.com/user-attachments/assets/5bfeeed8-b30e-41d0-a2f5-79ab0de2b0af)
+<img width="1510" height="821" alt="image" src="https://github.com/user-attachments/assets/e95c6fdd-d88c-478b-aaf9-e9ed413e4887" />
+<img width="1585" height="843" alt="image" src="https://github.com/user-attachments/assets/1ecd0ef3-a228-4fc7-92b7-5d841bebe1ec" />
 
 ### 2️⃣ Define point of view 
 
-![Image](https://github.com/user-attachments/assets/88ce7d37-78e1-4ca8-a8c5-28ce7b27d420)
-
-![Image](https://github.com/user-attachments/assets/c0cb9290-7ffe-42fb-b6de-602219092097)
+<img width="1541" height="825" alt="image" src="https://github.com/user-attachments/assets/452559a6-e523-42ca-b777-3cdbb4d28e10" />
+<img width="1539" height="859" alt="image" src="https://github.com/user-attachments/assets/aa115c3d-ea77-4eee-a606-66b6f2c26767" />
 
 ### 3️⃣ Ideate
 
-![Image](https://github.com/user-attachments/assets/e03a4866-dc53-484d-80f8-7f06b6e282ff)
-
-![Image](https://github.com/user-attachments/assets/36a18032-fc76-4cef-960e-b2f953e382d6)
+<img width="1486" height="819" alt="image" src="https://github.com/user-attachments/assets/bcec9703-ee65-45c2-8a93-4587c9c8dce5" />
 
 ### 4️⃣ Prototype and review
 
@@ -167,81 +161,102 @@ This part is in the dashboard
 
 ### I. Overview
 
-![Image](https://github.com/user-attachments/assets/3e58ade5-ba20-461a-b6ba-b670e820d368)
+<img width="1632" height="925" alt="image" src="https://github.com/user-attachments/assets/6a0e19af-3f2d-4f8c-ba8b-07bd7fbe969c" />
 
-### 📌 Key Findings:
+### ⭐ Key Findings — Overview
 
-**1. Revenue & Profit Surged**  
-   - Revenue reached **$9.48M** and profit hit **$1.09M**, both increasing **51.3% YoY**. → **Growth** was primarily driven by **increased order volume**, **not by improved operational efficiency** (profit margin remained at **12%**).
+**1. Sales & Profit Grew, But Margins Stayed Flat**  
+- Total Sales reached **$12.64M** and Total Profit **$1.47M**, but **profit margin remained flat (~11–12%)** across years.  
+→ Growth was driven by **higher sales volume**, not improved cost efficiency.
 
-**2. Customer Base Expands Steadily**  
-   - Customer count grew from **1303 (2011)** to **1501 (2014)**, with a stable **~1% return rate**. → Indicates **strong customer retention** and consistent service quality over time.
+**2. APAC & EU Lead in Revenue, but Canada Leads in Margin**  
+- **APAC, EU, and US** generated the highest revenue.  
+- **Canada** achieved an exceptional **26.6% profit margin**, despite low revenue.  
+→ Canada is a **high-potential, high-margin market** worth expanding.
 
-**3. Canada Shows Highest Profit Margin**  
-   - **Canada** achieved a **28% profit margin** despite low revenue. **US, EU, and APAC** contributed the highest revenue overall. → Suggests **Canada** has high **profitability potential**, while the **US remains the core market** in terms of scale.
+**3. Africa & EMEA Show the Fastest Growth**  
+- Africa and EMEA had the **highest YoY sales growth**, even with smaller revenue bases.  
+→ These are **emerging strategic markets** with strong long-term potential.
 
-**4. Consumer Segment Leads**  
-   - The **Consumer segment** generated **$4.9M**, the highest among all segments, with a stable **11–12% margin**. → Indicates **steady demand** and a key role in **driving overall growth**.
+**4. Technology Outperforms All Categories**  
+- Technology posted the **highest profit and sales**, outperforming Furniture and Office Supplies.  
+- However, some Technology items recorded **higher return rates**, which reduced net margins.  
+→ Tech is the **core growth engine**, but requires improved return management.
 
-**5. Technology Drives Growth**  
-   - **Technology products** generated the highest revenue across all regions. → Suggests **customers have a strong preference** for **tech products** over other categories.
+**5. Return Orders Decreased Despite Rising Orders**  
+- Return rate dropped significantly from **~15% to ~9%**, even as total orders increased.  
+→ Indicates **better customer satisfaction**, improved logistics, or enhanced product quality.
 
-**6. Growth Driven by Existing Customers**  
-   - **Buyer count** increased only **1%**, but **orders surged 51.7%**; **Average Order Value (AOV)** slightly decreased by **-0.3%**. → Indicates **strong repeat purchase behavior**, with smaller but more frequent orders.
+**6. Revenue Growth Driven by Key Regions**  
+- EMEA (59.8%) and Africa (56.5%) recorded the **highest % Sales Growth** among all markets.  
+→ Strong candidates for **future investment and market expansion**.
+  
+### II. Market Analysis
+<img width="1899" height="1059" alt="image" src="https://github.com/user-attachments/assets/e73ad8b0-951f-459c-ac30-405a717fa951" />
 
-![Image](https://github.com/user-attachments/assets/b3e4cabf-ab5a-4c07-a8b3-1d6305b8d15c)
+### ⭐ Key Findings — Market Analysis
 
-### 📌 Key Findings:
+**1. APAC Leads in Total Sales**  
+- APAC generated **$3.59M**, the highest among all markets, followed by EU and US.  
+→ APAC is the **strongest revenue driver** and a key market to maintain and scale.
 
-**1. Revenue & Profit Distribution**  
-   - Total revenue **$9.48M**, with **APAC ($2.7M)**, **EU ($2.1M)**, and **US ($1.8M)** leading. → **Canada** had the highest **profit margin (28%)**, despite low revenue. **EMEA** and **Africa** underperformed with low revenue and profit margins (~6–12%).
+**2. EU & EMEA Achieve the Fastest Growth**  
+- EU recorded **55% YoY sales growth**, and EMEA reached **59.8%**, the highest overall.  
+→ These markets show **exceptionally strong momentum** and should be prioritized for expansion investment.
 
-**2. Profit Contribution by Market**  
-   - **APAC, EU, and US** contributed the most to profit. → **LATAM** steady (~15%), while **Africa** and **Canada** contributed minimally.
+**3. Canada Shows Exceptional Profit Margin**  
+- Canada achieved a **26.6% profit margin**, the highest of all regions, despite low revenue.  
+→ Indicates an opportunity for **premium positioning and targeted scaling**.
 
-**3. Revenue Growth by Market & Category**  
-   - **Canada** saw **+219.5% YoY** growth, especially in **Technology (+63.5%)**. → Emerging markets **EMEA (+183.15%)** and **Africa (+168.25%)** grew rapidly.
+**4. Africa Demonstrates Strong Emerging Potential**  
+- Africa delivered **56.5% YoY growth**, outpacing larger markets.  
+→ Suggests a **high-growth emerging market** with long-term potential despite small revenue base.
 
- **4. Customer Base & Loyalty**  
-   - **Central, South, and EMEA** had the most **returning customers**. → **Oceania** showed potential with **187 new customers**.
+**5. Strong Salesperson Performance Concentrated in Key Regions**  
+- Top performers (e.g., Anna Andreadi, Anthony Jacobs) generated **$1M+** each, mostly in APAC, EU, and US.  
+→ Highlights the impact of **high-performing reps** and the importance of **regional sales leadership**.
 
-**5. Order Volume & Return Rate**  
-   - **Central** led in **order volume** and **lowest return rate (~1%)**. → Other regions had stable return rates (1–3%).
-
-**6. Employee Productivity**  
-   - **Central** excelled with: → **$2.07M revenue/employee**, **$212K profit/employee**, **5,237 orders/employee**. → **Canada** had the lowest across all metrics.
+**6. Consistent Profitability Across Major Markets**  
+- US (12.47%), EU (12.69%), and APAC (12.16%) maintained stable margins.  
+→ Indicates **operational consistency** across core regions.
      
 ### III. Product Analysis
 
-![Image](https://github.com/user-attachments/assets/d498e651-5794-4124-a9c6-6c2e56c84470)
+<img width="1891" height="1056" alt="image" src="https://github.com/user-attachments/assets/01011ac1-8bc5-4d28-8b33-28bae954dabd" />
 
-### 📌 Key Findings:
+### ⭐ Key Findings — Product Analysis
 
-**1. Quadrant Analysis by Sub-Category**
-- **Copiers** and **Phones** are the leaders with high **revenue** and **strong profit margins**. **Accessories**, **Art**, and **Labels** are **profitable but under-scaled**, showing growth potential. **Chairs**, **Bookcases**, and **Storage** perform well in revenue but have **low profit margins**. **Supplier** and **Furnishings** are underperforming with both **low revenue** and **low margins**.
+**1. Technology Sub-Categories Drive the Most Sales**  
+- Phones, Copiers, Chairs, and Bookcases generated the highest total sales.  
+→ Technology-related products show **strong, consistent demand** across markets.
 
-**2. Revenue and Profit Margin by Sub-Category**
-- **Phones ($1.4M)**, **Chairs**, **Copiers**, and **Tables** lead in **revenue**. **Accessories (26%)**, **Labels (23%)**, and **Art (18%)** stand out for **profit margins**. **Tables (-7%)** are underperforming with negative profit margins.
+**2. Copiers Deliver Exceptional Profitability**  
+- Copiers produced **the highest total profit** and one of the strongest margins (~17%).  
+→ A highly strategic product for scaling due to **high profit per unit**.
 
-**3. Orders, Customers, and Return Rate by Sub-Category**
-- **Storage** leads in **orders (216)** but has low profit margins. **Labels (10%)**, **Fasteners (6%)**, and **Paper (5%)** show high **return rates**, raising potential quality concerns. Categories like **Art** and **Appliances** have **low return rates**, indicating high customer satisfaction.
+**3. Appliances & Accessories Show Strong YoY Growth**  
+- Appliances (55.2%) and Accessories (51.1%) recorded **some of the strongest YoY growth rates**.  
+→ These categories offer **expansion opportunities** and rising customer interest.
 
-**4. Revenue and Profit by Ship Mode**
-- **Standard Class** dominates with **$5.7M in revenue**, while **First Class** and **Second Class** bring in significantly less. → Shows that **most customers prioritize cost over speed**.
+**4. Low-Performing Categories Dilute Profit**  
+- Sub-categories like Fasteners (0%), Furnishings (~49%), and Supplies (~48%) have **low sales and lower growth**.  
+→ These categories **drag overall performance** and may require portfolio optimization.
 
-**5. Profit by Segment and Category**
-- **Consumer Segment** generates the highest profit (**$0.28M**), especially in **Technology**. **Office Supplies** yield lower profit margins, especially in **Home Office**.
+**5. Top Products Are All Technology Items**  
+- The Top 5 products by total sales are entirely **Tech products** (Apple, Cisco, Motorola, Nokia, Canon).  
+→ Indicates that **Technology is the dominant revenue engine**, with strong brand-driven demand.
 
-**6. Top 10 Products by Profit**
-- **Canon imageCLASS 2200**, **Motorola Smart Phone**, and **Cisco Smart Full Size** top the profit list, mainly from **Technology**. → **Furniture** and **Office Supplies** products lag behind in profitability.
+**6. Product Demand Clusters Around Mid-to-High Profit Range**  
+- Bubble chart shows most products cluster between **$0.5M–$1.5M sales** with varying margins.  
+→ Highlights opportunities to **scale mid-tier products** with stable profitability.
 
 ## 🔎 Final Conclusion & Recommendation 
 
-| **Strategy**                     | **Insight**                                                                                                                                                       | **Recommendation**                                                                                                                                                                      |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **🚀 1. Market Expansion Strategy** | - **Canada** has the highest **profit margin (28%)** despite low revenue. <br> - **Africa** and **EMEA** show exceptionally high **revenue growth** (+168% / +183%). <br> - **Oceania** & **Africa** have the highest number of **new customers**. | - **Expand selectively in Canada** to maximize profitability. <br> - **Increase investment in Africa and EMEA** to capture growth. <br> - **Focus promotions in Oceania & Africa** to drive new customer growth. |
-| **🛒 2. Product Portfolio Optimization** | - **Technology** leads in both **revenue** and **profit**. <br> - **Accessories**, **Art**, and **Labels** are high-margin but **low-revenue**. <br> - **Suppliers** and **Furnishings** underperform in both **revenue** and **profit**. <br> - **Tables** bring high **revenue** but incur **losses (-7%)**. <br> - **Storage** has high **orders** but **low profit margin**. | - **Scale Technology**, focusing on high-margin products like **Canon Copiers** and **Motorola/Cisco Phones**. <br> - **Market Accessories**, **Art**, and **Labels**, leveraging high margins. <br> - **Consider delisting Suppliers**, **Furnishings**, and **Tables** due to poor performance. <br> - **Review Storage pricing** and costs for better profitability. |
-| **👥 3. Customer Strategy**        | - **99.97%** of revenue comes from **existing customers**. <br> - **Oceania** & **Africa** have the largest **new customer base**.                                                      | - **Focus on customer retention** with loyalty and upselling initiatives. <br> - **Expand acquisition efforts in Oceania & Africa** to capture growth potential. |
-| **⚙️ 4. Operational Efficiency**   | - **US**, **EU**, and **APAC** show slower growth. <br> - **Central region** leads in **employee productivity** ($2.07M per employee). <br> - **Standard Class** dominates **shipping revenue**. | - **Optimize operations** in mature markets to maintain margins. <br> - **Replicate Central region's model** in other regions. <br> - **Focus on Standard Class shipping** and audit other modes for savings. |
-
+| **Strategy** | **Insight** | **Recommendation** |
+|--------------|-------------|--------------------|
+| 🚀 **1. Market Expansion Strategy** | - **Canada** has the highest profit margin (**26.6%**) despite low revenue.<br>- **Africa & EMEA** show exceptionally high revenue growth and improving profit trends.<br>- **APAC & EU** deliver high absolute revenue with stable margins (~12–13%). | - Expand **selectively in Canada** to maximize margin opportunities.<br>- Increase **investment in Africa & EMEA** to capture growth momentum.<br>- Maintain strong presence in **APAC & EU** by continuing regional marketing and sales efforts. |
+| 📦 **2. Product Portfolio Optimization** | - **Phones and Copiers** deliver strong revenue and high profit contribution.<br>- **Accessories, Art, Labels** have high margins but low revenue.<br>- **Suppliers & Furnishings** underperform in both sales and profit.<br>- **Tables** generate high sales but negative profit (-7%).<br>- **Storage** has high orders but low profit margin. | - Scale **Technology** products; prioritize high-margin Tech SKUs (e.g., Canon Copiers, Cisco/Motorola Phones).<br>- Market **Accessories, Art, and Labels** more aggressively to leverage their margins.<br>- Consider delisting or repositioning **Suppliers, Tables, Furnishings** due to weak performance.<br>- Review **Storage** pricing and supply chain to recover margin. |
+| 👥 **3. Sales Representative Strategy** | - **Anna Andreadi** is the top performer with ~$2.8M in sales.<br>- **Nicole Hansen** is the only representative in Canada — both a strength and risk.<br>- Strong performance is concentrated in APAC, EU, and US teams. | - Leverage Anna’s results by assigning training/leadership duties.<br>- Retain and support **Nicole Hansen** as the lead rep in Canada to build a scalable sales structure.<br>- Replicate top-performer practices across underperforming regions. |
+| 🎯 **4. Customer Strategy** | - Majority of revenue (**~99%**) comes from **existing customers**.<br>- **Oceania & Africa** bring in the most new customers.<br>- Some regions rely heavily on repeat buyers. | - Focus on **customer retention** with loyalty programs and upselling.<br>- Increase **acquisition efforts** in Africa & Oceania to leverage new customer growth.<br>- Develop targeted campaigns for markets heavily dependent on returning customers. |
+| ⚙️ **5. Operational Efficiency** | - Profit margin remains stable (~11–12%), suggesting cost pressure.<br>- Markets like **US, EU, and APAC** show slower growth compared to emerging regions.<br>- Rising sales but declining return rates indicate improvement in product or logistics. | - Improve **cost efficiency** in mature regions to raise margins.<br>- Benchmark operations in fast-growth regions (Africa/EMEA) to identify scalable practices.<br>- Maintain return-rate improvements through quality control and supplier management. |
 
